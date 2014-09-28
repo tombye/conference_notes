@@ -11,11 +11,11 @@ Chaired by [@jamesrbuk](https://twitter.com/jamesrbuk).
 
 ## Katarzyna Szymielewicz
 
-"Privacy is a matter of organising things in your life. It is a vital part of feeling you have control over your life. This is what is understood of the term by the legal world.
+Privacy is a matter of organising things in your life. It is a vital part of feeling you have control over your life. This is what is understood of the term by the legal world.
 
-Mark Zuckerberg famously said [the age of privacy is over](http://www.theguardian.com/technology/2010/jan/11/facebook-privacy). He said people will give up privacy for popularity. This is a gross misundaerstanding of what privacy is. Privacy is not about hiding (see above definition) and is just designed to promote Facebook's business model which makes money from users sharing.
+Mark Zuckerberg famously said [the age of privacy is over](http://www.theguardian.com/technology/2010/jan/11/facebook-privacy). He said people will give up privacy for popularity. This is a gross misunderstanding of what privacy is. Privacy is not about hiding (see above definition) and his statement was just designed to promote Facebook's business model which makes money from users sharing.
 
-## You data in other hands
+## Your data in other hands
 
 ### Large corporations gathering data on you
 
@@ -41,11 +41,13 @@ Panel:
 
 Chaired by [Jude Kelly](http://en.wikipedia.org/wiki/Jude_Kelly).
 
-Melanie Lenz gave a brilliant talk to start on the role of women in computing and in art through the years. She mentioned a few things about women outside of art that Wendy Hall (OBE) expanded on.
+Melanie Lenz gave a brilliant talk to start on the role of women in computing and in art through the years. She mentioned a few things about women outside of art that Wendy Hall expanded on.
+
+She also showed some amazingly misogynistic adverts from the 50s/60s telling businesses they could replace the jobs women did with computers.
 
 ## Wendy Hall OBE
 
-Women were actually called 'computers' in the 1940s/50s. Jobs in computing were much more aligned with the Maths and Science disciplines and so the gender split was relative to that field. In fact, before the 1980s 30% of people in Information and Communications Technology (ICT) were women. 
+Women working in ICT were often referred to as 'computers' in the 1940s/50s. Jobs in computing were much more aligned with the Maths and Science disciplines and so the gender split was relative to that field. In fact, before the 1980s 30% of people in Information and Communications Technology (ICT) were women. 
 
 This ended with the advent of the personal computer. Marketed at boys and not used for the same type of problems, the majority of its users were male and this shaped who entered ICT from that point. By the end of the 1980s less than 10% of those in ICT were women.
 
@@ -53,11 +55,11 @@ Science and Engineering, as a whole, doesn't have this problem and these ratios 
 
 She also noted her ICT classes in Qatar were over 90% women but when she talked to the students she found this was mainly because they had less access to good funding. The men all studied courses abroad which were thought to be better.
 
-In India families of the women studying ICT often think this will lead to them marrying a male programmer which, in their eyes is good.
+In India families of the women studying ICT often think this will lead to them marrying a male programmer which in their eyes is good.
 
 ## Martha Lane Fox CBE
 
-Martha Lane Fox pointed out the effect it has on female business people that the world of finance is mainly male. She recalled a meeting with a Venture Capitalist (VC) where she was asked the risk to the business they were asking for funding for (lastminute.com) on her getting pregnant. The fact that this was possible and considered a normal part of a business meeting was testament to the fact of how the language of finance is a male one.
+Martha Lane Fox pointed out the effect it has on female business people that the world of finance is mainly male. She recalled a meeting with a Venture Capitalist (VC) where she was asked the risk of her getting pregnant on the business they were asking for funding for (lastminute.com). The fact that this was possible and considered a normal part of a business meeting was testament to the fact of how the language of finance is a male one.
 
 She also recalled another meeting with a VC where she, as the chairperson of a business, had to repeat to the VC that her colleague was the person who organised the main dealings of their business because he couldn't believe a woman could do this.
 
@@ -65,11 +67,13 @@ She also recalled another meeting with a VC where she, as the chairperson of a b
 
 Ruth Nicolls mentioned women often find interest in working with data sets which will increasingly become a larger field of work.
 
+She also talked about how some of the girls she works with with [Young Rewired State](https://youngrewiredstate.org/) start programming because they want to change their blogs or other ways they publish.
+
 ## Shared discussions
 
 [@WomenShiftDigi](https://twitter.com/WomenShiftDigi) was mentioned as a great organisation for addressing some of the themes raised by this panel.
 
-Kirsty Walk's documentary [Blurred lines](http://www.youtube.com/watch?v=89fjkRfPsDw) was a mentioned as great summary of the treatment of women online. Apparently this video was put on YouTube by some sexists as an example of bad feminism.
+Kirsty Walk's documentary [Blurred lines](http://www.youtube.com/watch?v=89fjkRfPsDw) was a mentioned as great, though troubling, summary of the treatment of women online. Apparently this video was put on YouTube by some sexists as an example of bad feminism.
 
 It was pointed out (by Jude Kelly, I think) that Wikipedia, the main source of general information on the web, is mainly written by men. Melanie Lenz has organised events where women get together to write articles on Wikipedia to address that balance.
 
@@ -135,7 +139,7 @@ Chaired by: [@afjellema](https://twitter.com/AFJellema).
 
 Africans are using the web in very interesting ways because they are using it to solve their needs and those needs are very different to the rest of the world.
 
-She mentioned a quote by a famous author (?):
+She mentioned a quote by a famous author (wasn't sure who):
 
 "Everyone has accepted the Northern American or the European in themselves. Once people accept the part of them that is African we will get somewhere."
 
@@ -174,7 +178,7 @@ Use of 'dumb' (not smart) phones is the norm. Social networks get this:
 - Facebook has a version in Africa that works on dumb phone
 - Twitter is looking at enabling people to do sms-to-tweet
 
-This is a good article about it: http://news.bbc.co.uk/1/hi/programmes/click_online/9759485.stm
+This is a good report on it: http://news.bbc.co.uk/1/hi/programmes/click_online/9759485.stm
 
 # The myth of the digital native
 
