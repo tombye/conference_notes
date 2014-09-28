@@ -36,7 +36,7 @@ Panel:
 
 - [Melanie Lenz](http://www.vam.ac.uk/blog/author/melanie-lenz)
 - [@Marthalanefox](https://twitter.com/Marthalanefox)
-- [DameWendyDBE](https://twitter.com/DameWendyDBE)
+- [@DameWendyDBE](https://twitter.com/DameWendyDBE)
 - [@RuthNicholls](https://twitter.com/RuthNicholls)
 
 Chaired by [Jude Kelly](http://en.wikipedia.org/wiki/Jude_Kelly).
